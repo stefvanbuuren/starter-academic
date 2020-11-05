@@ -11,18 +11,16 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Professor of Statistical Analysis of Incomplete Data
-  url: "https://www.uu.nl/staff/SvanBuuren/Profile"
 - name: Principal Scientist
-  url: "https://www.tno.nl/en/professors/stef-van-buuren/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, missing data, child growth and development, and measurement.
 
 interests:
-- Data science
 - Missing data
 - Child growth and development
-- Measurement
+- Statistics
+- R programming
 
 education:
   courses:
@@ -57,7 +55,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Stef van Buuren is *Professor of Statistical Analysis of Incomplete Data* at the University of Utrecht and *Principal Scientist* at the Netherlands Organisation for Applied Scientific Research TNO in Leiden. His interests include the analysis of incomplete data, child growth and development, computational statistics, measurement and individual causal effects. 
+Stef van Buuren is *Professor of Statistical Analysis of Incomplete Data* at the [University of Utrecht](https://www.uu.nl/staff/SvanBuuren/Profile) and *Principal Scientist* at the [Netherlands Organisation for Applied Scientific Research TNO](https://www.tno.nl/en/professors/stef-van-buuren/) in Leiden. His interests include the analysis of incomplete data, child growth and development, computational statistics, measurement and individual causal effects. 
 
 Van Buuren is the inventor of the *MICE algorithm* for multiple imputation of missing data. He created the *growth charts* used in the Dutch child health care system, and designed the *D-score*, a new system for expressing child development on a quantitative scale. He consults for the World Health Organization and the Bill & Melinda Gates Foundation.

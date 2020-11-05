@@ -6,10 +6,10 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
+view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "headers/NY_public_library.jpg"
+  caption: ""
   image: ""
 ---
