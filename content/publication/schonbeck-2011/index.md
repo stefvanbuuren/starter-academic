@@ -1,0 +1,60 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Increase in prevalence of overweight in dutch children and adolescents: a
+  comparison of nationwide growth studies in 1980, 1997 and 2009'
+subtitle: ''
+summary: ''
+authors:
+- Y. Schönbeck
+- H. Talma
+- P. van Dommelen
+- B. Bakker
+- S. E. Buitendijk
+- R. A. Hirasing
+- admin
+tags:
+- '""'
+categories: []
+date: '2011-01-01'
+lastmod: 2020-11-06T09:11:52+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-11-06T08:11:51.881338Z'
+publication_types:
+- '2'
+abstract: 'OBJECTIVE: To assess the prevalence of overweight and obesity among Dutch
+  children and adolescents, to examine the 30-years trend, and to create new body
+  mass index reference charts. DESIGN: Nationwide cross-sectional data collection
+  by trained health care professionals. PARTICIPANTS: 10,129 children of Dutch origin
+  aged 0-21 years. MAIN OUTCOME MEASURES: Overweight (including obesity) and obesity
+  prevalences for Dutch children, defined by the cut-off values on body mass index
+  references according to the International Obesity Task Force. RESULTS: In 2009,
+  12.8% of the Dutch boys and 14.8% of the Dutch girls aged 2-21 years were overweight
+  and 1.8% of the boys and 2.2% of the girls were classified as obese. This is a two
+  to three fold higher prevalence in overweight and four to six fold increase in obesity
+  since 1980. Since 1997, a substantial rise took place, especially in obesity, which
+  increased 1.4 times in girls and doubled in boys. There was no increase in mean
+  BMI SDS in the major cities since 1997. CONCLUSIONS: Overweight and obesity prevalences
+  in 2009 were substantially higher than in 1980 and 1997. However, the overweight
+  prevalence stabilized in the major cities. This might be an indication that the
+  rising trend in overweight in the Netherlands is starting to turn. JID: 101285081;
+  OID: NLM: PMC3216980; 2011/07/05 [received]; 2011/10/20 [accepted]; 2011/11/15 [epublish];
+  ppublish'
+publication: '*PLoS ONE*'
+---
