@@ -20,7 +20,7 @@ tags:
 - curve matching
 - two-step method
 categories: []
-date: '2020-01-01'
+date: '2020-11-15'
 lastmod: 2020-11-06T16:46:45+01:00
 featured: true
 draft: false
