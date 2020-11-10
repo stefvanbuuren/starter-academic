@@ -1,17 +1,17 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Multiple imputation of predictor variables using generalized additive models
 subtitle: ''
 summary: ''
 authors:
-- Roel de Jong
-- Stef van Buuren
-- Martin Spiess
+- R. de Jong
+- admin
+- M. Spiess
 tags:
-- '""'
+- multiple imputation
+- gamlss
+- predictive mean matching
 categories: []
-date: '2016-01-01'
+date: '2016-06-01'
 lastmod: 2020-11-06T09:12:11+01:00
 featured: false
 draft: false
@@ -33,6 +33,12 @@ projects: []
 publishDate: '2020-11-06T08:12:11.053895Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'The sensitivity of multiple imputation methods to deviations from their distributional assumptions is investigated using simulations, where the parameters of scientific interest are the coefficients of a linear regression model, and values in predictor variables are missing at random. The performance of a newly proposed imputation method based on generalized additive models for location, scale, and shape (GAMLSS) is investigated. Although imputation methods based on predictive mean matching are virtually unbiased, they suffer from mild to moderate under-coverage, even in the experiment where all variables are jointly normal distributed. The GAMLSS method features better coverage than currently available methods.'
 publication: '*Communications in Statistics-Simulation and Computation*'
+url_pdf: 'publications/2016 Multiple imputation GAMLSS - CSSC.pdf'
+links:
+  - icon_pack: fab
+    icon: github
+    name: Source
+    url: https://github.com/dsalfran/ImputeRobust/
 ---
