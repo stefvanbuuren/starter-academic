@@ -1,34 +1,35 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: The Global Scale for Early Development (GSED)
 subtitle: ''
 summary: ''
 authors:
-- MM Black
-- K Bromley
-- VA Cavallera
-- J Cuartas
-- T Dua
-- I Eekhout
-- G Fink
-- M Gladstone
-- K Hepworth
-- M Janus
-- P Kariger
-- G Lancaster
-- D McCoy
-- G McCray
-- A Raikes
-- M Rubio-Codina
-- S van Buuren
-- M Waldman
-- S Walker
-- A Weber
+- M.M. Black
+- K. Bromley
+- V.A. Cavallera
+- J. Cuartas
+- T. Dua
+- I. Eekhout
+- G. Fink
+- M. Gladstone
+- K. Hepworth
+- M. Janus
+- P. Kariger
+- G. Lancaster
+- D. McCoy
+- G. McCray
+- A. Raikes
+- M. Rubio-Codina
+- admin
+- M. Waldman
+- S. Walker
+- A. Weber
 tags:
-- '""'
+- GSED
+- D-score
+- Rasch model
+- child development
 categories: []
-date: '2019-01-01'
+date: '2019-05-01'
 lastmod: 2020-11-09T20:53:26+01:00
 featured: false
 draft: false
@@ -50,11 +51,7 @@ projects: []
 publishDate: '2020-11-09T19:53:26.137690Z'
 publication_types:
 - '2'
-abstract: Critically, each of these investments requires that governments and stakeholders
-  implement metrics to track their progress in achieving ECD-related targets and goals.
-  National and global measurement of progress is of critical importance for ensuring
-  and sustaining government commitment to global agendas and goals. In the context
-  of ECD, most existing instruments for measuring ECD were developed in high-income
-  countries.
+abstract: Countries need good metrics to track their progress towards early childhood development targets. No reliable, freely accessible tools exist for population-level monitoring of children up to age 3. The Global Scale for Early Development, now being field-tested, could offer a global solution.
 publication: '*Early Childhood Matters*'
+url_pdf: publications/2019-Global_scale_GSED.pdf
 ---

@@ -1,17 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Multiple imputation in data that grow over time: A comparison of three strategies'
 subtitle: ''
 summary: ''
 authors:
-- XM Kavelaars
-- S Van Buuren
-- JR Van Ginkel
+- X.M. Kavelaars
+- admin
+- J.R. van Ginkel
 tags:
-- '""'
+- multiple imputation
+- longitudinal data
+- APPEND
+- RE-IMPUTE
 categories: []
-date: '2019-01-01'
+date: '2019-04-08'
 lastmod: 2020-11-09T20:53:52+01:00
 featured: false
 draft: false
@@ -49,4 +50,5 @@ abstract: Multiple imputation is a highly recommended technique to deal with mis
   We conclude that appended imputation is especially beneficial in longitudinal datasets
   that suffer from dropout.
 publication: '*arXiv preprint arXiv:1904.04185*'
+url_pdf: publications/2019_mi_grow.pdf
 ---
