@@ -1,23 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Proceedings of the 22nd Aschauer Soiree on Growth and Health Screening
+title: Proceedings of the 22nd Aschauer soiree on growth and health screening
 subtitle: ''
 summary: ''
 authors:
-- M Hermanussen
-- A Anisimova
-- C Abmann
+- M. Hermanussen
+- A. Anisimova
+- C. Abmann
 - admin
-- AD Camara
-- MA Elhusseini
-- M Hassan
-- MH El-Shabrawi
-- EZ Godina
-- A Gomula
+- A.D. Camara
+- M.A. Elhusseini
+- M. Hassan
+- M.H. El-Shabrawi
+- E.Z. Godina
+- A. Gomula
 - ' others'
 tags:
-- '""'
+- child growth
+- screening
 categories: []
 date: '2015-01-01'
 lastmod: 2020-11-06T09:12:11+01:00
@@ -41,6 +40,7 @@ projects: []
 publishDate: '2020-11-06T08:12:11.821844Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Twenty-five scientists met at Aschauhof, Altenhof, Germany, to discuss various aspects of the complex network of modern health screening, focusing on current scientific topics including medical sciences, human biology, and mathematics; on problems in implementing these results at the practical level of physicians, nurses, technicians, and engineers; and the level of administrative and political decisions. Whereas major scientific advancements have been published in the understanding and the bio-statistical evaluation of anthropometric screening parameters such as serial measurements of height and weight for preventive medical check-ups, BMI screening and surveillance in schools, etc., the implementation of these advancements into current health screening concepts, strategies and decision-making is poor. Fear of discrimination, misperception of body image, behavioural responses and political concerns, meanwhile dominate and negatively interfere with the implementation of recent scientific results into public health screening concepts and practices.'
 publication: '*Pediatr Endocrinol Rev*'
+url_pdf: 'publications/2015 Proceedings - PER.pdf'
 ---
