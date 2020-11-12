@@ -67,4 +67,5 @@ abstract: 'OBJECTIVES: Studies regarding the association of child-care use with 
   role in preventive interventions against overweight and obesity development in young
   children. JID: 101256108; 2010/05/25 [aheadofprint]; ppublish'
 publication: '*International Journal of Obesity*'
+url_pdf: 'publications/2010 Child care and BMI - IJO.pdf'
 ---

@@ -61,4 +61,5 @@ abstract: 'In multiple imputation (MI), the resulting estimates are consistent i
   minor effect in the quality of the imputations. doi: 10.1080/00949655.2011.639773;
   M3: doi: 10.1080/00949655.2011.639773; 22'
 publication: '*Journal of Statistical Computation and Simulation*'
+url_pdf: 'publications/2013 Combining - JSCS.pdf'
 ---

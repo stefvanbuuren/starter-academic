@@ -57,4 +57,5 @@ abstract: 'PURPOSE: To develop and evaluate two artificial neural network (ANN) 
   perform well in identifying the type but not the speed of the activity of adults
   from accelerometer data. JID: 8005433; ppublish'
 publication: '*Medicine and science in sports and exercise*'
+url_pdf: 'publications/2011 Neural networks MSSE.pdf'
 ---

@@ -60,4 +60,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Anthropol. Anz.*'
+url_pdf: 'publications/2012 Diversity in auxology - Anthranz.pdf'
 ---

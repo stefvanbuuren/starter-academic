@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Novel Physiotherapies*'
+url_pdf: 'publications/2014 Validation CABG - Nov Phys.pdf'
 ---

@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '**'
+url_pdf: 'publications/2010 JGZ-richtlijn kleine lichaamslente.pdf'
 ---

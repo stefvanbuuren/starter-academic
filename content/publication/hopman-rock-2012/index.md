@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Physical Activity & Health*'
+url_pdf: 'publications/2012 Response Conversion Physical Act - JPAH.pdf'
 ---

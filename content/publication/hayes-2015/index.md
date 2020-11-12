@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Bulletin of the World Health Organization*'
+url_pdf: 'publications/2015 WFA references malaria - Bull WHO.pdf'
 ---

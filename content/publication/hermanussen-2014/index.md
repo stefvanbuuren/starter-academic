@@ -73,4 +73,5 @@ abstract: The association between poverty, malnutrition, illness and poor socioe
   to discuss genetic, endocrine, mathematical and psychological aspects and related
   issues, of child and adolescent growth and final height.
 publication: '*Pediatr Endocrinol Rev*'
+url_pdf: 'publications/2014 Adolescent growth - Pediatr Endocrinol Rev.pdf'
 ---

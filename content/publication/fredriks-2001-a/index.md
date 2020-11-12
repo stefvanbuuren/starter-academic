@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/Quetelet index - NtvG 2001.pdf'
 ---

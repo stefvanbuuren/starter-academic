@@ -33,4 +33,5 @@ publication_types:
 - '4'
 abstract: ''
 publication: ''
+url_pdf: 'publications/86_10.pdf'
 ---

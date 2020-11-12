@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Elise Dusseldorp
 - Lenneke Van Genugten
-- Stef van Buuren
+- admin
 - Marieke W Verheijden
 - Pepijn van Empelen
 tags:
@@ -44,4 +44,5 @@ abstract: 'Objective: Many health-promoting interventions combine multiple behav
   regression trees (CART) to meta-analytic data in a special way, referred to as Meta-CART.
   The aim was to identify particular …'
 publication: '*Health Psychology*'
+url_pdf: 'publications/2014 Combination of techniques - Health Psychology.pdf'
 ---

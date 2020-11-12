@@ -79,4 +79,5 @@ abstract: 'BACKGROUND: Insights into the effects of energy balance-related paren
   child. JID: 101217089; OID: NLM: PMC3065396; 2010/07/26 [received]; 2011/03/14 [accepted];
   2011/03/14 [aheadofprint]; epublish'
 publication: '*Int. J. Behav. Nutr. Phys. Act.*'
+url_pdf: 'publications/2011 Parenting practices - IJBNPA.pdf'
 ---

@@ -70,4 +70,5 @@ abstract: 'BACKGROUND CONTEXT: The recovery of patients with chronic low back pa
   [received]; 2010/05/03 [revised]; 2010/06/01 [accepted]; 2010/07/08 [aheadofprint];
   ppublish'
 publication: '*Spine Journal*'
+url_pdf: 'publications/2010 Low back pain - Spine.pdf'
 ---

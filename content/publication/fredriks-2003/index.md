@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Pediatrics*'
+url_pdf: 'publications/Height, weight - Eur J Ped 2003.pdf'
 ---

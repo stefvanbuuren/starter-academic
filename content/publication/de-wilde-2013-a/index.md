@@ -57,4 +57,5 @@ abstract: 'OBJECTIVES: Asians have a smaller muscle mass and a larger fat mass a
   as thinness prevalence is likely to be overestimated and obesity underestimated.
   The development of ethnic specific cut-offs is recommended.'
 publication: '*Arch Dis Child*'
+url_pdf: 'publications/2013 Trends ADC.pdf'
 ---

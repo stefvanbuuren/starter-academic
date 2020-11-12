@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/2015 Systematically missing - Stat Med.pdf'
 ---

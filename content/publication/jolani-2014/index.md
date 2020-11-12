@@ -50,4 +50,5 @@ abstract: Missing values are a practical issue in the analysis of longitudinal d
   clinical trial comparing therapies in disaster-exposed children. We conclude that
   the new method increases the robustness of imputations.
 publication: '*Br J Math Stat Psychol*'
+url_pdf: 'publications/2013 Dual imputation - BJMSP.pdf'
 ---

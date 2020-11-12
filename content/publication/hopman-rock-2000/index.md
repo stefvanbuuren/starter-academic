@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Disability and Rehabilitation*'
+url_pdf: 'publications/Polytomous Rasch - Disab Rehab 2000.pdf'
 ---

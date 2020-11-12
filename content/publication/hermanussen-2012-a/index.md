@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Pediatric Endocrinology Reviews*'
+url_pdf: 'publications/2012 Dilemmas - PER.pdf'
 ---

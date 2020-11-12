@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Paediatrica*'
+url_pdf: 'publications/Alarming prevalences - Acta Paedriatr 2005.pdf'
 ---

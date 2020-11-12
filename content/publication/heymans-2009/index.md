@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Occupational Rehabilitation*'
+url_pdf: 'publications/Return to work - J Occ Rehab 2009.pdf'
 ---

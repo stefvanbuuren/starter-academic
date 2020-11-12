@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Pediatrics*'
+url_pdf: 'publications/Asthmatic symptoms - Pediatrics 2008.pdf'
 ---

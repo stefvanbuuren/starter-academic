@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Paediatrica*'
+url_pdf: 'publications/Dieting in children - Acta Ped 2007.pdf'
 ---

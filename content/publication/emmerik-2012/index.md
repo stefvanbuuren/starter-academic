@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Archives of Diseases in Childhood*'
+url_pdf: 'publications/2012 High Cardiovasc risk - ADC.pdf'
 ---

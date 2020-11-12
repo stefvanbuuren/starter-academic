@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*BMC Medical Research Methodology*'
+url_pdf: 'publications/Variable selection - BMC MRM 2007.pdf'
 ---

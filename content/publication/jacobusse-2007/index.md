@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/CAT for development - Stat Med 2007.pdf'
 ---

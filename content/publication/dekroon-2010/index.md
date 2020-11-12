@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*PloS ONE*'
+url_pdf: 'publications/2010 TBC Overweight - PLoS ONE.pdf'
 ---

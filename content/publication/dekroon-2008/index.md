@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Public Health*'
+url_pdf: 'publications/Identifying metabolic syndr - Eur J Pub H 2008.pdf'
 ---

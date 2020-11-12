@@ -61,4 +61,5 @@ abstract: 'OBJECTIVE: To develop a tool to identify children with high risk of a
   validation, wider adoption of this tool might enhance primary AO prevention. JID:
   101256330; 2010/11/22 [aheadofprint]; ppublish'
 publication: '*International Journal of Pediatric Obesity*'
+url_pdf: 'publications/2011 TBC Risk adult overweight - JPedOb.pdf'
 ---

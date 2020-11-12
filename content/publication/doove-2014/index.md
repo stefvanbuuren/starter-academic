@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Computational Statistics and Data Analysis*'
+url_pdf: 'publications/2014 Recursive partitioning - CSDA.pdf'
 ---

@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Psychotraumatology*'
+url_pdf: 'publications/2011 EMDR and CBT  - EJP.pdf'
 ---

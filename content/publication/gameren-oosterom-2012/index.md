@@ -66,4 +66,5 @@ abstract: 'BACKGROUND: Complications of overweight amplify with age, and irrever
   OID: NLM: PMC2820098; 2009/08/09 [received]; 2010/01/07 [accepted]; 2010/02/11 [epublish];
   epublish'
 publication: '*PloS ONE*'
+url_pdf: 'publications/2012 Down Syndrome - Plos ONE.pdf'
 ---

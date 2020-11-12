@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/Cesar therapie - NtvG 2000.pdf'
 ---

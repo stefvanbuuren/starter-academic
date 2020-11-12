@@ -41,4 +41,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*BMC Public Health BMC Public Health*'
+url_pdf: 'publications/Referral patterns - BMC PH 2007.pdf'
 ---

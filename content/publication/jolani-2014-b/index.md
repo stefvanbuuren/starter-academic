@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Biometrics & Biostatistics*'
+url_pdf: 'publications/2014 Doubly Robust Binary Longitudinal - JBB.pdf'
 ---

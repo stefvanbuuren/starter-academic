@@ -61,4 +61,5 @@ abstract: 'BACKGROUND: Clark and Watson developed the tripartite model in which 
   Copyright A(c) 2011; JID: 7906073; 2011/03/17 [received]; 2011/10/04 [revised];
   2011/10/04 [accepted]; aheadofprint'
 publication: '*Journal of Affective Disorders*'
+url_pdf: 'publications/2012 Symptoms depression - JAffDis.pdf'
 ---

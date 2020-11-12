@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Paediatrica*'
+url_pdf: 'publications/Height weight - Acta Paediatr 2004.pdf'
 ---

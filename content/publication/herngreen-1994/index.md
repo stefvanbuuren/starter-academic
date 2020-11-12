@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Annals of Human Biology*'
+url_pdf: 'publications/1994 Growth in SMOCC - AHB.pdf'
 ---

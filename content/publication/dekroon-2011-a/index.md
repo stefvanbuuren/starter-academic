@@ -71,4 +71,5 @@ abstract: 'BACKGROUND: Breastfeeding (BF) is protective against overweight and i
   for 6 months or longer. JID: 100967804; OID: NLM: PMC3112108; 2010/12/28 [received];
   2011/05/10 [accepted]; 2011/05/10 [aheadofprint]; epublish'
 publication: '*BMC Pediatrics*'
+url_pdf: 'publications/2011 TBC Breastfeeding duration - BMC Pediatr.pdf'
 ---

@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*BMC Pediatrics*'
+url_pdf: 'publications/Diagnostic workup - BMC Ped 2008.pdf'
 ---

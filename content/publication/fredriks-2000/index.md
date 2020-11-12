@@ -41,4 +41,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Pediatric Research*'
+url_pdf: 'publications/Continuing secular - Ped Res 2000.pdf'
 ---

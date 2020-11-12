@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/Toename lengte - NvtG 2001.pdf'
 ---

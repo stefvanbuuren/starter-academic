@@ -63,4 +63,5 @@ abstract: 'BACKGROUND/AIMS: Studies on the association between head circumferenc
   tool to interpret HC in short or tall children. CI: Copyright (c) 2011; JID: 101525157;
   2010/06/28 [received]; 2010/09/04 [accepted]; 2011/02/10 [aheadofprint]; ppublish'
 publication: '*Hormone Research in Paediatrics*'
+url_pdf: 'publications/2011 Head circumference and body size - HormResPed.pdf'
 ---

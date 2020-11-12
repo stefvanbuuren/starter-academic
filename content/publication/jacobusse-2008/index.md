@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Tijdschrift voor Jeugdgezondheidszorg*'
+url_pdf: 'publications/D score - JGZ 2008 (proof).pdf'
 ---

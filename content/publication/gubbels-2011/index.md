@@ -64,4 +64,5 @@ abstract: 'OBJECTIVES: The mechanisms underlying the protective effect of breast
   include less unhealthy snacking behavior, but not feeding pattern or child’s eating
   style. JID: 101256330; 2010/09/22 [aheadofprint]; ppublish'
 publication: '*International Journal of Pediatric Obesity*'
+url_pdf: 'publications/2011 Breastfeeding and weight - IJPO.pdf'
 ---

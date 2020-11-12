@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Interval scale - Stat Med 2006.pdf'
 ---

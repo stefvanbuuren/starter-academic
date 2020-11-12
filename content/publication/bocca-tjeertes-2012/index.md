@@ -42,7 +42,7 @@ abstract: '**Objectives**: To assess the distribution of height, weight, and hea
 **Results**: At all ages, the median height and weight of preterm children were lower compared with full-term children. Growth depended on the child’s GA. Increase in HC showed an early catch-up and was similar to full-term children by the age of 1. Height, weight, and HC were more variable in boys, particularly in the very preterm children. 
 **Conclusions**: At 0 to 4 years, the growth of preterm children differed from that of full-term children and depended on their GA. The greater variability of growth in boys suggests that they are more vulnerable to the complications of preterm birth that influence growth. These growth charts are the most precise tools currently available for monitoring growth in preterm children.'
 publication: '*Journal of Pediatrics*'
-url_pdf: './publications/2012 Premature charts - J Peds.pdf'
+url_pdf: 'publications/2012 Premature charts - J Peds.pdf'
 links:
   - icon_pack: fas
     icon: chart-line

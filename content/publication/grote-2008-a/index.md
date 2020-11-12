@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Arch. Dis. Child.*'
+url_pdf: 'publications/Developing evidence-based - ADC 2008.pdf'
 ---

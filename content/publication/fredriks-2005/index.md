@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Pediatrics*'
+url_pdf: 'publications/Age references for waist - Fredriks EJ Ped 2005.pdf'
 ---

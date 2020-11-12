@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*International Journal for Quality in Health Care*'
+url_pdf: 'publications/2014 MIDI - IJQHC.pdf'
 ---

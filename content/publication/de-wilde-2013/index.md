@@ -59,4 +59,5 @@ abstract: 'BACKGROUND: South Asian babies born in developed countries are genera
   Since 1974, although the mean birth weight of Surinamese South Asian babies remained
   unchanged, they gained a healthier weight for their gestational age.'
 publication: '*BMC Public Health*'
+url_pdf: 'publications/2013 Trends in birth weight - BMC.pdf'
 ---

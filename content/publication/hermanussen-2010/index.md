@@ -71,4 +71,5 @@ abstract: 'Growth and body height have always been topics interesting to the pub
   ppublish'
 publication: '*Homo : Internationale Zeitschrift fur die vergleichende Forschung am
   Menschen*'
+url_pdf: 'publications/2010 Growth variation - HOMO.pdf'
 ---

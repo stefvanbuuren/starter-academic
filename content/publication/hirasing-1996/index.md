@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Diabetes Care*'
+url_pdf: 'publications/1996_hospital_admissions.pdf'
 ---
