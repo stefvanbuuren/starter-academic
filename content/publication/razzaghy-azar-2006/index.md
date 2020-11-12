@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Annals of Human Biology*'
+url_pdf: 'publications/Puberty Iran - AHB 2006.pdf'
 ---

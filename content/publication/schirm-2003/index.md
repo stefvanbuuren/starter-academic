@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Pharmaceutisch Weekblad*'
+url_pdf: 'publications/2003_denekamp.pdf'
 ---

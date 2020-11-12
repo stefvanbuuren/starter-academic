@@ -8,7 +8,8 @@ authors:
 - admin
 - K. Groothuis-Oudshoorn
 tags:
-- '"ERC"'
+- MICE
+- multiple imputation
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:56+01:00
@@ -34,4 +35,5 @@ publication_types:
 - '2'
 abstract: 'journal: Journal of Statistical Software”; JSSOBK'
 publication: '*Journal of Statistical Software*'
+url_pdf: 'publications/2011 MICE - JSS.pdf'
 ---

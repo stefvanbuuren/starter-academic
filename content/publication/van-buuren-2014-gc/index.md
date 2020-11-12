@@ -47,4 +47,5 @@ abstract: This article reviews and compares two types of growth charts for track
   years) and Tanner pubertal stages (8-21 years). New reference values for both applications
   are provided.
 publication: '*Stat Methods Med Res*'
+url_pdf: 'publications/2014 Growth charts for development - SMMR.pdf'
 ---

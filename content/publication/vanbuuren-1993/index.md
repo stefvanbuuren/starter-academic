@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2020-11-06T08:11:58.442378Z'
 publication_types:
-- '6'
+- '1'
 abstract: ''
 publication: '*Bulletin of the International Statistical Institute, CP II*'
 ---

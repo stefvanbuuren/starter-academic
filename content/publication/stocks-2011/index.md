@@ -56,4 +56,5 @@ abstract: 'Excess weight in early life is believed to increase susceptibility to
   showed similar results to those from developed countries. CI: (c) 2011 The Authors.
   obesity reviews (c) 2011; JID: 100897395; 2011/03/23 [aheadofprint]; ppublish'
 publication: '*Obes. Rev.*'
+url_pdf: 'publications/2011 Body size and growth - Obesity Reviews.pdf'
 ---

@@ -57,4 +57,5 @@ abstract: 'OBJECTIVE: To assess the prevalence of overweight and obesity among D
   OID: NLM: PMC3216980; 2011/07/05 [received]; 2011/10/20 [accepted]; 2011/11/15 [epublish];
   ppublish'
 publication: '*PLoS ONE*'
+url_pdf: 'publications/2011 Increased overweight - PLoS ONE.pdf'
 ---

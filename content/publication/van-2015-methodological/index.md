@@ -30,7 +30,8 @@ image:
 projects: []
 publishDate: '2020-11-06T08:12:11.371273Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*ASA Proceeding of the Joint Statistical Meeting 2015, Biometrics Section*'
+url_pdf: 'publications/2015 Growth methods - JSM 2015.pdf'
 ---

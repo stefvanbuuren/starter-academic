@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistica Neerlandica*'
+url_pdf: 'publications/Optimal transformations - Stat Neerl 1997.pdf'
 ---

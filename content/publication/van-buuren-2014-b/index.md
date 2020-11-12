@@ -49,4 +49,5 @@ abstract: 'OBJECTIVES: To develop a reference chart to monitor inspiratory muscl
   is a novel tool for monitoring the progress of inspiratory muscle training for physiotherapy
   practice. Wider use of this chart is recommended.'
 publication: '*Physiotherapy*'
+url_pdf: 'publications/2014 IMT chart - Physiotherapy.pdf'
 ---

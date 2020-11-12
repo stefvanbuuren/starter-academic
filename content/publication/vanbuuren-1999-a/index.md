@@ -35,7 +35,8 @@ image:
 projects: []
 publishDate: '2020-11-06T08:11:56.380233Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/Brief consensus - NvtG 1999.pdf'
 ---

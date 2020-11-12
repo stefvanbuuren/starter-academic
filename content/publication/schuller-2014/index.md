@@ -45,4 +45,5 @@ abstract: Valid estimates of caries experience are needed to monitor oral popula
   of multiple imputation and direct standardization to obtain correct estimates of
   caries experience.
 publication: '*Caries Res*'
+url_pdf: 'publications/2013 Caries Experience - Caries Res.pdf'
 ---

@@ -59,4 +59,5 @@ abstract: 'BACKGROUND: It is known that height and body mass index (BMI) are cor
   the impact of height when evaluating trends and variations of BMI distributions
   in childhood, and to use BMI to predict adult overweight.'
 publication: '*PLoS ONE*'
+url_pdf: 'publications/2014 Height Bias - PLoS ONE.pdf'
 ---

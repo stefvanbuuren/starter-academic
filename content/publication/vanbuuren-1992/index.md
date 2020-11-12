@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
+url_pdf: 'publications/Imputation categorical - Psychometrika 1992.pdf'
 ---

@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
+url_pdf = 'publications/Clustering n objects - Psychometrika 1989.pdf'
 ---

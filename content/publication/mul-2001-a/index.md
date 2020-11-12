@@ -58,4 +58,5 @@ abstract: 'We investigated pubertal development of 4019 boys and 3562 girls >8 y
   since 1980. Height, weight, and body mass index have a strong influence on the chance
   of menarche. LR: 20061115; JID: 0100714; ppublish'
 publication: '*Pediatric Research*'
+url_pdf: 'publications/Pubertal development - Ped Res 2001.pdf'
 ---

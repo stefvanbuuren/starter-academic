@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2020-11-06T08:11:57.792945Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
-publication: '**'
+publication: 'TNO Report 98.014'
 ---

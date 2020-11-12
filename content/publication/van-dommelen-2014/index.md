@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Trends in a life threatening condition: morbid obesity in Dutch, Turkish and
+title: 'Trends in a life threatening condition: Morbid obesity in Dutch, Turkish and
   Moroccan children in the Netherlands.'
 subtitle: ''
 summary: ''
@@ -59,4 +59,5 @@ abstract: 'BACKGROUND: Morbid obesity can be a life threatening condition. The a
   and reducing the prevalence of childhood morbid obesity is of high importance for
   these children, health care and the community.'
 publication: '*PLoS One*'
+url_pdf: 'publications/2014_morbid_obesity.pdf'
 ---

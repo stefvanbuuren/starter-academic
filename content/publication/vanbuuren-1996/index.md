@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
+url_pdf: 'publications/Fitting ARMA - Psychometrika 1997.pdf'
 ---

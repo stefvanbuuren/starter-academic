@@ -50,4 +50,5 @@ abstract: There are very few norms to evaluate and monitor the health and functi
   profiles for the elderly. Another potential application is to track the individual
   development of the elderly, thereby objectifying personalized medicine.
 publication: '*Int J Environ Res Public Health*'
+url_pdf: 'publications/2014_fountain.pdf'
 ---

@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Neurol. Scand.*'
+url_pdf: 'publications/1998_space_time_clustering.pdf'
 ---

@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Obstetrics & Gynecology and Reproductive Biology*'
+url_pdf: 'publications/2012 Perinatal risk factor - Eur J Obs Gyn Rep Biol.pdf'
 ---

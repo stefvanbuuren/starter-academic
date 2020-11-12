@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The world’s tallest nation has stopped growing taller: the height of Dutch
+title: 'The world’s tallest nation has stopped growing taller: The height of Dutch
   children from 1955 to 2009'
 subtitle: ''
 summary: ''
@@ -43,4 +43,5 @@ abstract: 'Background: Records show that mean height in The Netherlands has incr
   is continuing. We consider the influence of the geographical region, and of the
   child and parental education, on.'
 publication: '*Pediatric Research*'
+url_pdf: 'publications/2013 Worlds tallest - Ped Res.pdf'
 ---

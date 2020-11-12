@@ -6,7 +6,7 @@ title: Hoe groeien te vroeg geboren kinderen in Nederland gedurende de eerste vi
 subtitle: ''
 summary: ''
 authors:
-- ' ten Vergert-Jordans E.M.J'
+- E.M.J. ten Vergert-Jordans
 - I.F.A. Bocca-Tjeertes
 - J.M. Kerstjens
 - admin
@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Tijdschrift voor Jeugdgezondheidszorg*'
+url_pdf: 'publications/2013 Pinkeltje - TJGZ.pdf'
 ---

@@ -56,4 +56,5 @@ abstract: 'AIM: To assess and compare the secular trend in age at menarche in Du
   secular trend in earlier age at menarche in Dutch girls. An even faster decrease
   in age at menarche is observed in girls of Turkish and Moroccan descent in the Netherlands.'
 publication: '*PLoS One*'
+url_pdf: 'publications/2013 Menarcheal age - PloS ONE.pdf'
 ---

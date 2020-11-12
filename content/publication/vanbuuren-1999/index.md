@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Multiple imputation - Stat Med 1999.pdf'
 ---
