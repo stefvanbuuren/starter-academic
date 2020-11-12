@@ -81,4 +81,5 @@ abstract: 'Context and Objective: GH therapy increases growth and adult height i
   development. JID: 0375362; 0 (Androgens); 0 (Recombinant Proteins); 12629-01-5 (Human
   Growth Hormone); 53-39-4 (Oxandrolone); 2010/01/08 [aheadofprint]; ppublish'
 publication: '*J. Clin. Endocrinol. Metab.*'
+url_pdf: 'publications/2010 Efficacy Oxandrolone - JECM.pdf'
 ---

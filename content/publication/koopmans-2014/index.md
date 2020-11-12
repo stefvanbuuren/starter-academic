@@ -49,4 +49,5 @@ abstract: Recently, the Individual Work Performance Questionnaire (IWPQ) version
   it can more reliably measure workers at all levels of ability, discriminate between
   workers at a wider range on each scale, and detect changes in individual work performance.
 publication: '*J Appl Meas*'
+url_pdf: 'publications/2014_improving_iwpq.pdf'
 ---

@@ -1,13 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Profiles of Older People
+title: Profiles of older people
 subtitle: ''
 summary: ''
 authors:
-- A., Mandl, B., Lackner, B., Massink, R., van Buuren, S., Perenboom, R., Gorris,
-  T., Goldbohm, S., Hoedemaeker, M., Wilschut, E., Wulf, A., Henne, S., Bencini, G.,
-  Baldanzini, N. Millonig
+- A. Millonig
+- B. Mandl 
+- B. Lackner 
+- R. Massink
+- admin
+- R. Perenboom
+- T. Gorris
+- S. Goldbohm
+- M. Hoedemaeker
+- E. Wilschut
+- A. Wulf
+- S. Henne
+- G. Bencini
+- N. Baldanzini
 tags:
 - '""'
 categories: []
@@ -32,7 +43,8 @@ image:
 projects: []
 publishDate: '2020-11-06T08:12:02.032260Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
-publication: '**'
+publication: 'Austrian Institute of Technology, Wien'
+url_pdf: 'publications/2013 Profiles of Older People - GOAL D2_1.pdf'
 ---

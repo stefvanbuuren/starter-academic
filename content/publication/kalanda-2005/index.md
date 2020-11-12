@@ -184,4 +184,5 @@ abstract: 'Cited By (since 1996): 1 Export Date: 1 September 2008 Source: Scopus
   in order to reduce the magnitude of its effects on infant undernutrition. ™ 2005
   Elsevier Ireland Ltd. All rights reserved'
 publication: '*Early Human Development Early Hum.Dev.*'
+url_pdf: 'publications/Catch up growth 2005.pdf'
 ---

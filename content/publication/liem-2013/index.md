@@ -53,4 +53,5 @@ abstract: 'OBJECTIVE: To assess the period during infancy and childhood in which
   ages 2 to 7 years are associated with adolescent adiposity and MS. This is more
   pronounced in adolescents whose mothers smoked during pregnancy.'
 publication: '*J Pediatr*'
+url_pdf: 'publications/2013 Infancy and childhood - jpeds.pdf'
 ---

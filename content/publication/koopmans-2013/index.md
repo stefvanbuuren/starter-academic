@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*International Journal of Productivity and Performance Management*'
+url_pdf: 'publications/2013 Work performance - IJPPM.pdf'
 ---

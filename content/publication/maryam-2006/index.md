@@ -1,14 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Age of the Onset of Puberty in Girls and Boys of Tehran, Iran
+title: Age of puberty in Iranian girls living in Tehran
 subtitle: ''
 summary: ''
 authors:
-- Razzaghi-Azar Nader Sadigh Maryam
-- Ali and, Mehdi Montazer Pedram Golnari Leila and, Zahedi Shulami and, Stef Van Buuren
-  Moghimi
-- Homa Mohammad Sadeghi Azade Zangane Kazemi Seyyed Mohammad Fereshte Nezhad
+- M. Razzaghi-Azar
+- A. Moghimi
+- N. Sadigh
+- M. Montazer 
+- P. Golnari
+- L. Zahedi-Schoolami
+- admin
+- H.M. Sadeghi
+- A.Z. Kazemi
+- S.M. Fereshtehnezhad
 tags:
 - '""'
 categories: []
@@ -36,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Ann. Hum. Biol.*'
+url_pdf: 'publications/Puberty Iran - AHB 2006.pdf'
 ---

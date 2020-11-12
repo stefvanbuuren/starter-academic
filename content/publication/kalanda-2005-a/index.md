@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Annals of Human Biology*'
+url_pdf: 'publications/Anthropometry Malawian - AHB 2005.pdf'
 ---

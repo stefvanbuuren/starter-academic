@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Diabetes Care*'
+url_pdf: 'publications/1998_seasonality.pdf'
 ---

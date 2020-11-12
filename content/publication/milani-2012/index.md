@@ -53,4 +53,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Endocrinological Investigation*'
+url_pdf: 'publications/2012 Local growth charts - JEI.pdf'
 ---

@@ -51,4 +51,5 @@ abstract: 'The main goal of this guideline for preventive child health care (PCH
   psychosocial aspects and the use of growth hormone. JID: 0400770; 12629-01-5 (Human
   Growth Hormone); ppublish'
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/2010 Verwijscriteria - NtvG.pdf'
 ---

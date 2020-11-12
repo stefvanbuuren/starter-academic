@@ -154,4 +154,5 @@ abstract: 'Cited By (since 1996): 3 Export Date: 1 September 2008 Source: Scopus
   HIV effect on fetal weight occurred after 38 weeks gestation'
 publication: '*Archives of Disease in Childhood: Fetal and Neonatal Edition Arch.Dis.Child.Fetal
   Neonatal Ed.*'
+url_pdf: 'publications/Anthropometry - ADC 2005.pdf'
 ---
