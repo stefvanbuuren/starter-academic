@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Worm plot - Stat Med 2001.pdf'
 ---

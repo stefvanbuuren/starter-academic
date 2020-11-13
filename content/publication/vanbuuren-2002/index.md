@@ -33,4 +33,10 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Tijdschrift voor Jeugdgezondheidszorg*'
+url_pdf: 'publications/2002_BMI_TJGZ.pdf'
+links:
+  - icon_pack: fa
+    icon: book
+    name: Nomogram
+    url: 'publications/Ontwerp nomogram 6.pdf'
 ---

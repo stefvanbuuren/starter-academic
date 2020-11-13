@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Clinical Nutrition*'
+url_pdf: 'publications/Analysis intra-uterine - Eur J Clin Nut 2001.pdf'
 ---

@@ -1,0 +1,11 @@
+@Proceedings{buuren2001f,
+author = {van Buuren, S.},
+editor = {Jansen, W. and Bethlehem, J.G.},
+title = {Multiple imputation for matching data from different sources},
+volume = {},
+publisher = {Statistics Netherlands},
+address = {Voorburg, Netherlands},
+pages = {109-110},
+year = {2000},
+abstract = {},
+keywords = {}}
