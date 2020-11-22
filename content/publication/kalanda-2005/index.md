@@ -10,28 +10,7 @@ authors:
 - Buuren,S. van
 - F.H. Verhoeff
 - B.J. Brabin
-tags:
-- '"2000; Adolescent; Adolescents; Adult; Age; analysis; Anthropometry; article; birth;
-  Birth Weight; Birthweight; Black; Body Height; Body Weight; Brazil; Breast Feeding;
-  Case-Control Studies; Case-control study; catch up growth; Child; child growth;
-  children; Cohort; cohort analysis; controlled study; deficiency; delivery; Developing
-  Countries; Development; disease association; education; endemic disease; Europe;
-  F; Female; Fetal growth; Gestational Age; Growth; Growth curves; growth inhibition;
-  growth rate; growth retardation; Haemoglobin; Health; health statistics; Heart;
-  Heart disease; Height; Human; Humans; infancy; Infant; infant disease; Infant growth;
-  Infant"'
-- '"Low Birth Weight; Infant"'
-- '"Newborn; Infection; Interaction; International; iron deficiency; language; Longitudinal;
-  Longitudinal Studies; Longitudinal study; low birth weight; major clinical study;
-  Malaria; malaria control; Malawi; Male; Malnutrition; maternal disease; Maternal
-  health; methods; Morbidity; Mortality; mother; Mothers; Multivariate; Multivariate
-  Analysis; Netherlands; newborn; Nutrition; Nutritional Status; Odds Ratio; Odds
-  ratios; Outcome; Pakistan; Pediatric; Pediatrics; physiology; placenta; Prediction;
-  Pregnancy; prematurity; prenatal care; Prevention; R; reference value; Reference
-  Values; Regression; Regression Analysis; Risk; risk factor; Risk Factors; rural
-  area; School; season; seasonal variation; Sex; sex difference; short stature; Socioeconomic
-  status; standard; standards; Statistics; stature; Survival; Thinness; United Kingdom;
-  United States; Universities; virus; weight; winter; World Health"'
+tags: []
 categories: []
 date: '2005-01-01'
 lastmod: 2020-11-06T09:12:06+01:00
