@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Official Statistics*'
+url_pdf: 'publications/Improving comparabilty - JOS 2005.pdf'
 ---

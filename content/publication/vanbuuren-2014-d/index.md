@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Annals of Nutrition & Metabolism*'
+url_pdf: 'publications/2014 Curve matching - Ann Nutr Metab.pdf'
 ---

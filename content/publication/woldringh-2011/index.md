@@ -52,4 +52,5 @@ abstract: 'Birth weight and longitudinal growth in the first 4 years of life of 
   Copyright (c) 2011; JID: 0372772; 2010/08/06 [received]; 2010/12/14 [revised]; 2010/12/16
   [accepted]; 2011/01/26 [aheadofprint]; ppublish'
 publication: '*Fertility and sterility*'
+url_pdf: 'publications/2011 Weight of IVF singletons - Fert Ster.pdf'
 ---

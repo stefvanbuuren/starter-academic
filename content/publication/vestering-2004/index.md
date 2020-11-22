@@ -34,5 +34,6 @@ publishDate: '2020-11-06T08:12:00.785670Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '**'
+publication: '*TNO Report 04.176*'
+url_pdf: 'publications/Bayesian item selection methods.pdf'
 ---

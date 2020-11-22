@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Ned. Tijdschr. Geneeskd.*'
+url_pdf: 'publications/Afkapwaarden ondergewicht - NtvG 2004.pdf'
 ---

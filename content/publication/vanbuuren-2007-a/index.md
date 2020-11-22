@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistical Methods in Medical Research*'
+url_pdf: 'publications/MI by FCS - SMMR 2007.pdf'
 ---

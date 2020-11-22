@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Medical Decision Making*'
+url_pdf: 'publications/Hypertension - MDM 2006.pdf'
 ---

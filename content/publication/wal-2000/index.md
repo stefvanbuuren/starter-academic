@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Tijdschrift voor Sociale Gezondheidszorg*'
+url_pdf: 'publications/wal-2000-geboortegewicht.pdf'
 ---

@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Statistical Computation and Simulation*'
+url_pdf: 'publications/FCS in multivariate imputation - JSCS 2006.pdf'
 ---

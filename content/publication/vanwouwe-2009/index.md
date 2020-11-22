@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Paediatrica*'
+url_pdf: 'publications/Breastfeeding duration - Acta Ped 2008.pdf'
 ---

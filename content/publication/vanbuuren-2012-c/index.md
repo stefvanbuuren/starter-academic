@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*STAtOR*'
+url_pdf: 'publications/2012 Vogelvlucht - STAtOR.pdf'
 ---

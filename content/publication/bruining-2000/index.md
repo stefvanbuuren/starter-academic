@@ -47,4 +47,5 @@ abstract: Secular growth changes have not been linked with type-1 diabetes. Long
   BMI during the first year of life and the development of such autoantibodies represents
   an additional risk marker towards earlier clinical onset of disease.
 publication: '*The Lancet*'
+url_pdf: 'publications/2000_associations_lancet.pdf'
 ---

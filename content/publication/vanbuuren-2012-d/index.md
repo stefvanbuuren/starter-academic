@@ -38,4 +38,5 @@ publication_types:
 - '5'
 abstract: ''
 publication: '*EFSA*'
+url_pdf: 'publications/2012 EFSA report.pdf'
 ---

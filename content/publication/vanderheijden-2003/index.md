@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Quality of Life Research*'
+url_pdf: 'publications/Unidimensionality and reliability - QoLR 2003.pdf'
 ---

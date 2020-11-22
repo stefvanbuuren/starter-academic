@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Stage line diagram - Stat Med 2009.pdf'
 ---

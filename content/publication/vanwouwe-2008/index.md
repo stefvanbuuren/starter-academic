@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Diabetes Research and Clinical Practice*'
+url_pdf: 'publications/Seasonal variation - DRCP 2008.pdf'
 ---

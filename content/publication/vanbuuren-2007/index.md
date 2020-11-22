@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistical Modelling*'
+url_pdf: 'publications/WP quantile regression - Stat Mod 2007.pdf'
 ---

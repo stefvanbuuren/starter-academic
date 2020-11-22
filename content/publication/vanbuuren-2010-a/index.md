@@ -48,4 +48,5 @@ abstract: 'Exclusively breastfed (EBF) infants have higher weight gain during th
   for the entire group of 1,743 infants. CI: Copyright (c) 2010; JID: 101244056; 2010/02/01
   [aheadofprint]; ppublish'
 publication: '*Nestle Nutrition Workshop Series*'
+url_pdf: 'publications/2010 Selective dropout - IGHD.pdf'
 ---

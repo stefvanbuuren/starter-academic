@@ -66,4 +66,5 @@ abstract: 'Regional or national growth distributions can provide vital informati
   States; GR: Medical Research Council/United Kingdom; JID: 8215016; 0 (Antimalarials);
   ppublish'
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Regional centiles - stat med 2009.pdf'
 ---

@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistica Neerlandica*'
+url_pdf: 'publications/2014 Semicontinuous - Stat Neerl.pdf'
 ---

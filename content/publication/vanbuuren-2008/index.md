@@ -33,4 +33,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Statistics in Medicine*'
+url_pdf: 'publications/Improved accuracy - Stat Med 2008.pdf'
 ---

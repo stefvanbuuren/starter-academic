@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Arch. Dis. Child.*'
+url_pdf: 'publications/Reference chart hypenatraemic - ADC 2007.pdf'
 ---

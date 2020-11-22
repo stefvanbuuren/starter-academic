@@ -37,4 +37,5 @@ abstract: Abstract We propose a new multiple imputation technique for imputing s
   No method, however, seems to deliver both, which limits researchers in the implementation
   of.
 publication: '*Sociological Methods & Research*'
+url_pdf: 'publications/2013 Squared terms -SMR.pdf'
 ---

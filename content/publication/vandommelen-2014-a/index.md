@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Tijdschrift voor Jeugdgezondheidszorg*'
+url_pdf: 'publications/2014 Land der reuzen - TJGZ.pdf'
 ---

@@ -33,4 +33,5 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*Growth Disorders 2nd*'
+url_pdf: 'publications/Growth disorders - Chapter 11 (proof).pdf'
 ---

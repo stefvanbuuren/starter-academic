@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*European Journal of Public Health*'
+url_pdf: 'publications/Assessing Comp - EJPH 2003.pdf'
 ---

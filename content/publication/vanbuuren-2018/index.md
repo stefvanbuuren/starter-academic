@@ -34,7 +34,7 @@ publishDate: '2020-11-06T08:12:12.285672Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*CRC Press*'
+publication: '*Chapman & Hall/CRC Press*'
 links:
   - icon_pack: fa
     icon: book

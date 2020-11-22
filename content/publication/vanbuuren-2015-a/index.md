@@ -9,7 +9,7 @@ authors:
 - D.J.D. Wijnmalen
 tags:
 - '""'
-categories: []
+categories: [] 
 date: '2015-01-01'
 lastmod: 2020-11-06T09:12:04+01:00
 featured: false
@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Applied Measurement*'
+url_pdf: 'publications/2015 Psychosocial impact CBRN - JAM.pdf'
 ---

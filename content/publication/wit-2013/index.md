@@ -70,4 +70,5 @@ abstract: 'The goal of growth hormone (GH) treatment in a short child is to atta
   may reduce the drug costs for GH treatment. There is a need for user-friendly software
   programs to make prediction models easily available in the clinic.'
 publication: '*Horm Res Paediatr*'
+url_pdf: 'publications/2013 Personalised GH - HRP.pdf'
 ---

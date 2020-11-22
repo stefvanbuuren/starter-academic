@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: 'ID: ZAADSTRA2008; RP: NOT IN FILE'
 publication: '*Multiple Sclerosis*'
+url_pdf: 'publications/Selective associations - Mult Scel 2008.pdf'
 ---

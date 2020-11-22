@@ -33,4 +33,9 @@ publication_types:
 - '5'
 abstract: ''
 publication: '*Chapman & Hall/CRC Press*'
+links:
+  - icon_pack: fa
+    icon: book
+    name: Read
+    url: 'https://stefvanbuuren.name/fimd'
 ---
