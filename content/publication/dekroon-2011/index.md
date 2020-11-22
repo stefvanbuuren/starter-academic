@@ -12,11 +12,13 @@ authors:
 - R. A. Hirasing
 - admin
 tags:
-- '"Adult; Age Factors; Aging; Body Mass Index; Child; Child"'
-- '"Preschool; Decision Support Techniques; Follow-Up Studies; Humans; Linear Models;
-  Logistic Models; Male; Netherlands/epidemiology; Overweight/diagnosis/epidemiology/physiopathology/prevention
-  & control; ROC Curve; Reproducibility of Results; Risk Assessment; Risk Factors;
-  Young Adult"'
+- Adult
+- Body Mass Index
+- Decision Support Techniques
+- Netherlands/epidemiology
+- Overweight
+- ROC Curve
+- Reproducibility
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:43+01:00

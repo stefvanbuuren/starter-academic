@@ -12,12 +12,12 @@ authors:
 - admin
 - S. P. Kremers
 tags:
-- '"Age Factors; Body Mass Index; Breast Feeding; Child Behavior; Child Nutritional
-  Physiological Phenomena; Child"'
-- '"Preschool; Feeding Behavior; Female; Habits; Humans; Infant; Infant Behavior;
-  Infant Nutritional Physiological Phenomena; Linear Models; Logistic Models; Male;
-  Netherlands; Odds Ratio; Overweight/diagnosis/physiopathology/prevention & control/psychology;
-  Prospective Studies; Questionnaires; Risk Assessment; Risk Factors; Weight Gain"'
+- Age Factors
+- Body Mass Index
+- Breast Feeding
+- Child Behavior
+- Overweight
+- Weight Gain
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:47+01:00

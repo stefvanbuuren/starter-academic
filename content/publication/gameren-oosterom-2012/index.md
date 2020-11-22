@@ -11,11 +11,7 @@ authors:
 - S. E. Buitendijk
 - admin
 - J. P. van Wouwe
-tags:
-- '"Adolescent; Adult; Age Factors; Algorithms; Birth Weight/physiology; Body Mass
-  Index; Body Weight/physiology; Child; Child"'
-- '"Preschool; Cohort Studies; Humans; Infant; Infant"'
-- '"Newborn; Linear Models; Netherlands; Overweight/physiopathology; Young Adult"'
+tags: []
 categories: []
 date: '2012-01-01'
 lastmod: 2020-11-06T09:11:43+01:00

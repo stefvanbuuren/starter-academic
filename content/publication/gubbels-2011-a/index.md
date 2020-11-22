@@ -16,12 +16,13 @@ authors:
 - admin
 - C. Thijs
 tags:
-- '"Adult; Body Mass Index; Body Weight; Caloric Restriction; Child; Child Behavior;
-  Child"'
-- '"Preschool; Cohort Studies; Diet; Energy Intake; Energy Metabolism; Exercise; Female;
-  Food Habits; Health Behavior; Humans; Male; Motor Activity; Obesity/prevention &
-  control; Parent-Child Relations; Parenting; Prospective Studies; Questionnaires;
-  Regression Analysis"'
+- Body Mass Index
+- Body Weight
+- Caloric Restriction
+- Diet
+- Motor Activity
+- Obesity/prevention & control
+- Parent-Child Relations
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:47+01:00

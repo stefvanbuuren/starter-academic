@@ -12,11 +12,10 @@ authors:
 - admin
 - P. H. Verkerk
 tags:
-- '"Body Height; Child; Child Health Services/standards; Child"'
-- '"Preschool; Female; Growth Disorders/diagnosis/drug therapy/prevention & control;
-  Human Growth Hormone/therapeutic use; Humans; Infant; Infant"'
-- '"Newborn; Male; Netherlands; Physician’s Practice Patterns; Preventive Medicine/standards;
-  Referral and Consultation"'
+- Body Height
+- Child Health Services/standards
+- Growth Disorders
+- Human Growth Hormone
 categories: []
 date: '2010-01-01'
 lastmod: 2020-11-06T09:11:50+01:00

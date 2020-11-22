@@ -14,10 +14,11 @@ authors:
 - admin
 - C. Thijs
 tags:
-- '"Body Mass Index; Child Care/statistics & numerical data; Child Development; Child"'
-- '"Preschool; Female; Humans; Infant; Longitudinal Studies; Male; Netherlands/epidemiology;
-  Obesity/epidemiology/etiology/prevention & control; Odds Ratio; Prospective Studies;
-  Risk Assessment"'
+- Body Mass Index
+- Child Development
+- Longitudinal Studies
+- Obesity
+- Prospective Studies
 categories: []
 date: '2010-01-01'
 lastmod: 2020-11-06T09:11:47+01:00

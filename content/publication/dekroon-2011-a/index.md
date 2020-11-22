@@ -13,10 +13,12 @@ authors:
 - admin
 - R. A. Hirasing
 tags:
-- '"Adolescent; Adult; Body Mass Index; Body Weight; Body Weights and Measures; Breast
-  Feeding/statistics & numerical data; Female; Follow-Up Studies; Food Habits; Humans;
-  Male; Mothers; Questionnaires; Time Factors; Waist Circumference; Waist-Hip Ratio;
-  Young Adult"'
+- Adolescent
+- Adult
+- Body Mass Index
+- Body Weight
+- Waist Circumference
+- Waist-Hip Ratio
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:43+01:00

@@ -14,12 +14,13 @@ authors:
 - G. A. Zielhuis
 - J. A. Kremer
 tags:
-- '"Age Factors; Birth Weight; Body Height; Case-Control Studies; Child Development;
-  Child"'
-- '"Preschool; Female; Fertilization in Vitro; Gestational Age; Humans; Infant; Infant"'
-- '"Newborn; Live Birth; Longitudinal Studies; Male; Netherlands; Questionnaires;
-  Sperm Injections"'
-- '"Intracytoplasmic; Treatment Outcome; Weight Gain"'
+- Birth Weight
+- Body Height
+- Child Development
+- Fertilization in Vitro
+- Gestational Age
+- Sperm Injections 
+- Weight Gain
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:12:01+01:00

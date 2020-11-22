@@ -23,10 +23,11 @@ authors:
 - C. Geiger
 - L. S. Lieberman
 tags:
-- '"Adolescent; Aging/physiology; Body Height/physiology; Child; Child Development/physiology;
-  Child Nutritional Physiological Phenomena/physiology; Child"'
-- '"Preschool; Environment; Female; Germany; Growth/physiology; Humans; Infant; Male;
-  Retrospective Studies; Socioeconomic Factors; Young Adult"'
+- Adolescent
+- Body Height/physiology
+- Child Development/physiology
+- Child Nutritional Physiological Phenomena/physiology
+- Growth/physiology
 categories: []
 date: '2010-01-01'
 lastmod: 2020-11-06T09:11:48+01:00

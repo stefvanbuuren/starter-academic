@@ -42,9 +42,6 @@ abstract: 'This paper deals with problems concerning missing data in statistical
   that will extrapolate the structure of the data, as well as the uncertainty about
   this structure. A second problem is to use complete-data methods in an efficient
   way. The HERMES workstation encapsulates existing statistical packages in a client-server
-  model. It forms a natural and convenient environment for implementing multiple imputation
-  Conference code: 21524 Cited By (since 1996): 6 Export Date: 1 September 2008 Source:
-  Scopus CODEN: 00166 Language of Original Document: English Correspondence Address:
-  van Buuren, S.; TNO-PG Leiden, Netherlands Sponsors: CESDIS; NASA; NOAA'
+  model. It forms a natural and convenient environment for implementing multiple imputation.'
 publication: '*Routine multiple imputation in statistical databases*'
 ---

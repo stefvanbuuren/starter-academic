@@ -11,8 +11,11 @@ authors:
 - V. H. Hildebrandt
 - admin
 tags:
-- '"Acceleration; Adult; Ankle; Female; Hip; Humans; Male; Middle Aged; Motor Activity;
-  Neural Networks (Computer)"'
+- Acceleration
+- Ankle
+- Hip
+- Motor Activity
+- Neural Networks (Computer)
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-06T09:11:44+01:00

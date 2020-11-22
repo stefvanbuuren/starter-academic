@@ -26,15 +26,19 @@ authors:
 - B. J. Otten
 - J. M. Wit
 tags:
-- '"Adolescent; Age Factors; Androgens/- administration & dosage/adverse effects; Blood
-  Pressure/drug effects; Body Height/drug effects; Chi-Square Distribution; Child;
-  Child"'
-- '"Preschool; Dose-Response Relationship"'
-- '"Drug; Double-Blind Method; Drug Therapy"'
-- '"Combination/adverse effects; Female; Human Growth Hormone/therapeutic use; Humans;
-  Netherlands; Oxandrolone/- administration & dosage/adverse effects; Puberty/drug effects;
-  Recombinant Proteins/therapeutic use; Treatment Outcome; Turner Syndrome/drug therapy;
-  Virilism/chemically induced"'
+- Adolescent
+- Androgens/
+- Blood Pressure/drug effects
+- Body Height/drug effects
+- Dose-Response Relationship
+- Double-Blind Method
+- Combination/adverse effects
+- Human Growth Hormone/therapeutic use
+- Oxandrolone/- administration & dosage/adverse effects
+- Puberty/drug effects
+- Recombinant Proteins/therapeutic use
+- Turner Syndrome/drug therapy;
+- Virilism/chemically induced
 categories: []
 date: '2010-01-01'
 lastmod: 2020-11-06T09:11:50+01:00

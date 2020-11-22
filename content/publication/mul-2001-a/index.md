@@ -11,10 +11,7 @@ authors:
 - W. Oostdijk
 - S. P. Verloove-Vanhorick
 - J. M. Wit
-tags:
-- '"Adolescent; Adult; Body Mass Index; Body Weight; Breast/growth & development;
-  Child; Cross-Sectional Studies; Female; Hair; Humans; Male; Menarche; Netherlands;
-  Puberty; Testis/anatomy & histology/growth & development"'
+tags: []
 categories: []
 date: '2001-01-01'
 lastmod: 2020-11-06T09:11:51+01:00

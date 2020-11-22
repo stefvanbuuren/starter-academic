@@ -12,13 +12,16 @@ authors:
 - F. O. ter Kuile
 - D. J. Terlouw
 tags:
-- '"Adolescent; Adult; Age Factors; Antimalarials/- administration & dosage; Asia"'
-- '"Southeastern; Biostatistics/methods; Body Weight; Child; Child Development; Child"'
-- '"Preschool; Databases"'
-- '"Factual; Developing Countries; Female; Growth; Health Status; Health Surveys;
-  Humans; Infant; Infant"'
-- '"Newborn; Male; Middle Aged; Models"'
-- '"Statistical; Young Adult; ERC"'
+- Adolescent
+- Adult
+- Antimalarials
+- Asia Southeastern
+- Child Development
+- Preschool
+- Developing Countries
+- Growth
+- Health Status
+- Health Surveys
 categories: []
 date: '2009-01-01'
 lastmod: 2020-11-06T09:11:57+01:00

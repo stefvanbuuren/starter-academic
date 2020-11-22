@@ -13,10 +13,11 @@ authors:
 - W. van Mechelen
 - H. C. de Vet
 tags:
-- '"Adolescent; Adult; Aged; Chronic Disease; Cohort Studies; Disability Evaluation;
-  Female; Humans; Low Back Pain/physiopathology/psychology/rehabilitation; Male; Middle
-  Aged; Pain/physiopathology/psychology; Prognosis; Psychology; Randomized Controlled
-  Trials as Topic; Young Adult"'
+- Adolescent
+- Chronic Disease
+- Disability Evaluation
+- Low Back Pain
+- Prognosis
 categories: []
 date: '2010-01-01'
 lastmod: 2020-11-06T09:11:48+01:00
