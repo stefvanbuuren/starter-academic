@@ -31,7 +31,6 @@ abstract: Missing data is a common occurrence in clinical research. Missing data
   software code for conducting multiple imputation in R, SAS, and Stata are provided.
 featured: false
 publication: '*Canadian Journal of Cardiology*'
-tags:
-- '""'
+tags: []
 ---
 
