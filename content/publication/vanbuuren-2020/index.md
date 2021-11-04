@@ -20,7 +20,7 @@ tags:
 - curve matching
 - two-step method
 categories: []
-date: '2020-11-15'
+date: '2021-11-04'
 lastmod: 2020-11-06T16:46:45+01:00
 featured: true
 draft: false
@@ -63,7 +63,7 @@ abstract: 'Many longitudinal studies collect data that have irregular observatio
   profile analysis, curve interpolation, multiple imputation and personalised prediction
   of future outcomes by curve matching.'
 publication: '*Journal of Statistcal Software*'
-url_preprint: ./publications/2020_Brokenstick_JSS_manuscript.pdf
+url_pdf: publications/2021_brokenstick_JSS_manuscript.pdf
 links:
   - icon_pack: fa
     icon: book
